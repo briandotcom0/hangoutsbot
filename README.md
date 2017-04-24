@@ -177,3 +177,7 @@ Hangoutsbot is derived from the [mogunsamang](https://gitlab.sabah.io/eol/moguns
 On 2015-06-20, this fork was detached and made standalone on GitHub
 
 On 2015-07-03, the fork was made into a Github Organisation
+<<<<<<< HEAD
+=======
+# Jag-hangbot
+>>>>>>> 72a4b5610db0c5be8b6966cb4582d5e722ed4a30
