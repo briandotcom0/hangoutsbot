@@ -1,0 +1,62 @@
+{
+  "admins": [
+    "!hadmin"
+  ],
+  "autoreplies": [
+    [
+      [
+        "hi bot",
+        "hello bot"
+      ],
+      "Hello world!"
+    ]
+  ],
+  "autoreplies_enabled": true,
+  "commands_enabled": true,
+  "commands_user": [],
+  "conversations": {
+    "CONV_ID": {
+      "autoreplies_enabled": false,
+      "commands_enabled": false,
+      "silentmode": true
+    }
+  },
+  "link_to_guide": "https://github.com/hangoutsbot/hangoutsbot/wiki/User-Guide",
+  "mentionall": true,
+  "mentionallwhitelist": [],
+  "mentionerrors": true,
+  "mentionquidproquo": false,
+  "plugins": [
+    "default",
+    "mentions",
+    "subscribe",
+    "autoreply",
+    "dnd",
+    "starter",
+    "remind",
+    "webbridge_hubot",
+    "slackrtm"
+  ],
+  "silentmode": false,
+
+"hubot": [
+    {
+      "certfile": "./server.pem",
+      "name": "127.0.0.1",
+      "port": 8081,
+      "synced_conversations": [
+        "gmK2XfUX5DSk0zCF3",
+        "<conv id>"
+      ],
+      "HUBOT_URL": "http://127.0.0.1:8080/receive/"
+    }
+  ],
+  "slackrtm": [
+    {
+      "name": "!team",
+      "key": "xoxb",
+      "admins": []
+    }
+  ]
+}
+
