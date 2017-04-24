@@ -63,7 +63,10 @@ import html # for html.unescape
 logger = logging.getLogger(__name__)
 
 # fix for simple_smile support
+<<<<<<< HEAD
 #fix for ^^, commented next 2 lines
+=======
+>>>>>>> 72a4b5610db0c5be8b6966cb4582d5e722ed4a30
 #emoji.EMOJI_UNICODE[':simple_smile:'] = emoji.EMOJI_UNICODE[':white_smiling_face:']
 #emoji.EMOJI_ALIAS_UNICODE[':simple_smile:'] = emoji.EMOJI_UNICODE[':white_smiling_face:']
 
